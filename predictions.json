@@ -1,0 +1,1002 @@
+[
+  {
+    "State": "Vermont",
+    "Projected Margin": -34.47,
+    "Race Rating": "Safe Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 64.2,
+        "Total": 261976
+      },
+      "GOP Nominee": {
+        "%": 29.7,
+        "Total": 121309
+      },
+      "3rd Party": {
+        "%": 6.1,
+        "Total": 24845
+      }
+    },
+    "Projected Turnout": 408130
+  },
+  {
+    "State": "Massachusetts",
+    "Projected Margin": -33.5,
+    "Race Rating": "Safe Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 64.5,
+        "Total": 2507191
+      },
+      "GOP Nominee": {
+        "%": 31.0,
+        "Total": 1204732
+      },
+      "3rd Party": {
+        "%": 4.5,
+        "Total": 175823
+      }
+    },
+    "Projected Turnout": 3887747
+  },
+  {
+    "State": "Hawaii",
+    "Projected Margin": -31.85,
+    "Race Rating": "Safe Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 63.9,
+        "Total": 433228
+      },
+      "GOP Nominee": {
+        "%": 32.1,
+        "Total": 217422
+      },
+      "3rd Party": {
+        "%": 4.0,
+        "Total": 26881
+      }
+    },
+    "Projected Turnout": 677531
+  },
+  {
+    "State": "Maryland",
+    "Projected Margin": -31.79,
+    "Race Rating": "Safe Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 63.6,
+        "Total": 2056973
+      },
+      "GOP Nominee": {
+        "%": 31.8,
+        "Total": 1029067
+      },
+      "3rd Party": {
+        "%": 4.6,
+        "Total": 147151
+      }
+    },
+    "Projected Turnout": 3233191
+  },
+  {
+    "State": "California",
+    "Projected Margin": -29.69,
+    "Race Rating": "Safe Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 62.6,
+        "Total": 12562633
+      },
+      "GOP Nominee": {
+        "%": 33.0,
+        "Total": 6608527
+      },
+      "3rd Party": {
+        "%": 4.4,
+        "Total": 884977
+      }
+    },
+    "Projected Turnout": 20056138
+  },
+  {
+    "State": "New York",
+    "Projected Margin": -23.20,
+    "Race Rating": "Safe Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 60.1,
+        "Total": 5653960
+      },
+      "GOP Nominee": {
+        "%": 36.9,
+        "Total": 3473010
+      },
+      "3rd Party": {
+        "%": 2.9,
+        "Total": 274766
+      }
+    },
+    "Projected Turnout": 9401735
+  },
+  {
+    "State": "Rhode Island",
+    "Projected Margin": -20.63,
+    "Race Rating": "Safe Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 58.2,
+        "Total": 325623
+      },
+      "GOP Nominee": {
+        "%": 37.6,
+        "Total": 210206
+      },
+      "3rd Party": {
+        "%": 4.2,
+        "Total": 23747
+      }
+    },
+    "Projected Turnout": 559576
+  },
+  {
+    "State": "Washington",
+    "Projected Margin": -18.86,
+    "Race Rating": "Safe Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 56.5,
+        "Total": 2653436
+      },
+      "GOP Nominee": {
+        "%": 37.6,
+        "Total": 1767652
+      },
+      "3rd Party": {
+        "%": 5.9,
+        "Total": 276450
+      }
+    },
+    "Projected Turnout": 4697538
+  },
+  {
+    "State": "Connecticut",
+    "Projected Margin": -18.52,
+    "Race Rating": "Safe Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 57.8,
+        "Total": 1134172
+      },
+      "GOP Nominee": {
+        "%": 39.3,
+        "Total": 770759
+      },
+      "3rd Party": {
+        "%": 2.9,
+        "Total": 57044
+      }
+    },
+    "Projected Turnout": 1961975
+  },
+  {
+    "State": "Delaware",
+    "Projected Margin": -18.32,
+    "Race Rating": "Safe Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 57.7,
+        "Total": 320003
+      },
+      "GOP Nominee": {
+        "%": 39.4,
+        "Total": 218396
+      },
+      "3rd Party": {
+        "%": 2.9,
+        "Total": 16287
+      }
+    },
+    "Projected Turnout": 554685
+  },
+  {
+    "State": "Illinois",
+    "Projected Margin": -16.76,
+    "Race Rating": "Safe Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 56.6,
+        "Total": 3617748
+      },
+      "GOP Nominee": {
+        "%": 39.8,
+        "Total": 2546015
+      },
+      "3rd Party": {
+        "%": 3.6,
+        "Total": 229933
+      }
+    },
+    "Projected Turnout": 6393696
+  },
+  {
+    "State": "New Jersey",
+    "Projected Margin": -15.42,
+    "Race Rating": "Safe Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 56.5,
+        "Total": 2857680
+      },
+      "GOP Nominee": {
+        "%": 41.1,
+        "Total": 2077484
+      },
+      "3rd Party": {
+        "%": 2.5,
+        "Total": 124272
+      }
+    },
+    "Projected Turnout": 5059437
+  },
+  {
+    "State": "Oregon",
+    "Projected Margin": -15.21,
+    "Race Rating": "Safe Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 54.7,
+        "Total": 1476488
+      },
+      "GOP Nominee": {
+        "%": 39.5,
+        "Total": 1065866
+      },
+      "3rd Party": {
+        "%": 5.8,
+        "Total": 157395
+      }
+    },
+    "Projected Turnout": 2699750
+  },
+  {
+    "State": "Colorado",
+    "Projected Margin": -12.35,
+    "Race Rating": "Safe Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 53.6,
+        "Total": 1962022
+      },
+      "GOP Nominee": {
+        "%": 41.2,
+        "Total": 1509734
+      },
+      "3rd Party": {
+        "%": 5.2,
+        "Total": 190869
+      }
+    },
+    "Projected Turnout": 3662624
+  },
+  {
+    "State": "New Mexico",
+    "Projected Margin": -10.55,
+    "Race Rating": "Likely Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 52.9,
+        "Total": 537755
+      },
+      "GOP Nominee": {
+        "%": 42.4,
+        "Total": 430551
+      },
+      "3rd Party": {
+        "%": 4.7,
+        "Total": 47702
+      }
+    },
+    "Projected Turnout": 1016007
+  },
+  {
+    "State": "Virginia",
+    "Projected Margin": -9.54,
+    "Race Rating": "Likely Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 52.9,
+        "Total": 2551539
+      },
+      "GOP Nominee": {
+        "%": 43.3,
+        "Total": 2090917
+      },
+      "3rd Party": {
+        "%": 3.8,
+        "Total": 184134
+      }
+    },
+    "Projected Turnout": 4826590
+  },
+  {
+    "State": "Maine",
+    "Projected Margin": -7.34,
+    "Race Rating": "Likely Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 51.0,
+        "Total": 448494
+      },
+      "GOP Nominee": {
+        "%": 43.7,
+        "Total": 383914
+      },
+      "3rd Party": {
+        "%": 5.4,
+        "Total": 47109
+      }
+    },
+    "Projected Turnout": 879517
+  },
+  {
+    "State": "Minnesota",
+    "Projected Margin": -6.37,
+    "Race Rating": "Lean Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 50.9,
+        "Total": 1791218
+      },
+      "GOP Nominee": {
+        "%": 44.5,
+        "Total": 1566986
+      },
+      "3rd Party": {
+        "%": 4.6,
+        "Total": 161419
+      }
+    },
+    "Projected Turnout": 3519623
+  },
+  {
+    "State": "New Hampshire",
+    "Projected Margin": -5.74,
+    "Race Rating": "Lean Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 50.9,
+        "Total": 437308
+      },
+      "GOP Nominee": {
+        "%": 45.2,
+        "Total": 387978
+      },
+      "3rd Party": {
+        "%": 3.9,
+        "Total": 33615
+      }
+    },
+    "Projected Turnout": 858902
+  },
+  {
+    "State": "Michigan",
+    "Projected Margin": -1.46,
+    "Race Rating": "Tilt Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 49.1,
+        "Total": 2984691
+      },
+      "GOP Nominee": {
+        "%": 47.7,
+        "Total": 2895817
+      },
+      "3rd Party": {
+        "%": 3.2,
+        "Total": 196594
+      }
+    },
+    "Projected Turnout": 6077102
+  },
+  {
+    "State": "Nevada",
+    "Projected Margin": -1.40,
+    "Race Rating": "Tilt Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 48.4,
+        "Total": 794452
+      },
+      "GOP Nominee": {
+        "%": 47.0,
+        "Total": 771553
+      },
+      "3rd Party": {
+        "%": 4.6,
+        "Total": 75015
+      }
+    },
+    "Projected Turnout": 1641021
+  },
+  {
+    "State": "Pennsylvania",
+    "Projected Margin": -0.33,
+    "Race Rating": "Tilt Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 48.8,
+        "Total": 3683023
+      },
+      "GOP Nominee": {
+        "%": 48.5,
+        "Total": 3657932
+      },
+      "3rd Party": {
+        "%": 2.8,
+        "Total": 208652
+      }
+    },
+    "Projected Turnout": 7549607
+  },
+  {
+    "State": "Arizona",
+    "Projected Margin": -0.20,
+    "Race Rating": "Tilt Dem",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 48.4,
+        "Total": 1949687
+      },
+      "GOP Nominee": {
+        "%": 48.2,
+        "Total": 1941673
+      },
+      "3rd Party": {
+        "%": 3.4,
+        "Total": 137954
+      }
+    },
+    "Projected Turnout": 4029314
+  },
+  {
+    "State": "Georgia",
+    "Projected Margin": 0.18,
+    "Race Rating": "Tilt GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 48.7,
+        "Total": 2774198
+      },
+      "GOP Nominee": {
+        "%": 48.9,
+        "Total": 2784522
+      },
+      "3rd Party": {
+        "%": 2.4,
+        "Total": 138149
+      }
+    },
+    "Projected Turnout": 5696869
+  },
+  {
+    "State": "Wisconsin",
+    "Projected Margin": 0.24,
+    "Race Rating": "Tilt GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 48.0,
+        "Total": 1682425
+      },
+      "GOP Nominee": {
+        "%": 48.3,
+        "Total": 1690970
+      },
+      "3rd Party": {
+        "%": 3.7,
+        "Total": 130839
+      }
+    },
+    "Projected Turnout": 3504234
+  },
+  {
+    "State": "North Carolina",
+    "Projected Margin": 2.11,
+    "Race Rating": "Lean GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 47.5,
+        "Total": 2921202
+      },
+      "GOP Nominee": {
+        "%": 49.6,
+        "Total": 3050828
+      },
+      "3rd Party": {
+        "%": 3.0,
+        "Total": 183116
+      }
+    },
+    "Projected Turnout": 6155146
+  },
+  {
+    "State": "Florida",
+    "Projected Margin": 4.78,
+    "Race Rating": "Lean GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 46.7,
+        "Total": 5841359
+      },
+      "GOP Nominee": {
+        "%": 51.5,
+        "Total": 6438468
+      },
+      "3rd Party": {
+        "%": 1.8,
+        "Total": 224452
+      }
+    },
+    "Projected Turnout": 12504279
+  },
+  {
+    "State": "Texas",
+    "Projected Margin": 5.47,
+    "Race Rating": "Lean GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 45.8,
+        "Total": 6093773
+      },
+      "GOP Nominee": {
+        "%": 51.3,
+        "Total": 6821031
+      },
+      "3rd Party": {
+        "%": 2.9,
+        "Total": 381949
+      }
+    },
+    "Projected Turnout": 13296754
+  },
+  {
+    "State": "Ohio",
+    "Projected Margin": 9.80,
+    "Race Rating": "Likely GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 43.7,
+        "Total": 2706547
+      },
+      "GOP Nominee": {
+        "%": 53.5,
+        "Total": 3313671
+      },
+      "3rd Party": {
+        "%": 2.8,
+        "Total": 173422
+      }
+    },
+    "Projected Turnout": 6193640
+  },
+  {
+    "State": "Alaska",
+    "Projected Margin": 10.17,
+    "Race Rating": "Likely GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 40.7,
+        "Total": 159507
+      },
+      "GOP Nominee": {
+        "%": 50.9,
+        "Total": 199339
+      },
+      "3rd Party": {
+        "%": 8.4,
+        "Total": 32878
+      }
+    },
+    "Projected Turnout": 391723
+  },
+  {
+    "State": "Iowa",
+    "Projected Margin": 10.36,
+    "Race Rating": "Likely GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 42.8,
+        "Total": 759909
+      },
+      "GOP Nominee": {
+        "%": 53.2,
+        "Total": 943617
+      },
+      "3rd Party": {
+        "%": 4.0,
+        "Total": 70541
+      }
+    },
+    "Projected Turnout": 1774068
+  },
+  {
+    "State": "South Carolina",
+    "Projected Margin": 13.61,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 41.8,
+        "Total": 1188589
+      },
+      "GOP Nominee": {
+        "%": 55.4,
+        "Total": 1576031
+      },
+      "3rd Party": {
+        "%": 2.9,
+        "Total": 81433
+      }
+    },
+    "Projected Turnout": 2846053
+  },
+  {
+    "State": "Kansas",
+    "Projected Margin": 15.71,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 39.8,
+        "Total": 601820
+      },
+      "GOP Nominee": {
+        "%": 55.6,
+        "Total": 839106
+      },
+      "3rd Party": {
+        "%": 4.6,
+        "Total": 69459
+      }
+    },
+    "Projected Turnout": 1510385
+  },
+  {
+    "State": "Montana",
+    "Projected Margin": 15.95,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 39.8,
+        "Total": 272523
+      },
+      "GOP Nominee": {
+        "%": 55.7,
+        "Total": 381782
+      },
+      "3rd Party": {
+        "%": 4.5,
+        "Total": 30589
+      }
+    },
+    "Projected Turnout": 684895
+  },
+  {
+    "State": "Missouri",
+    "Projected Margin": 17.62,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 39.4,
+        "Total": 1250553
+      },
+      "GOP Nominee": {
+        "%": 57.0,
+        "Total": 1810044
+      },
+      "3rd Party": {
+        "%": 3.6,
+        "Total": 115120
+      }
+    },
+    "Projected Turnout": 3175717
+  },
+  {
+    "State": "Utah",
+    "Projected Margin": 18.16,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 38.0,
+        "Total": 675886
+      },
+      "GOP Nominee": {
+        "%": 56.1,
+        "Total": 999212
+      },
+      "3rd Party": {
+        "%": 5.9,
+        "Total": 105027
+      }
+    },
+    "Projected Turnout": 1780125
+  },
+  {
+    "State": "Indiana",
+    "Projected Margin": 18.26,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 39.0,
+        "Total": 1279558
+      },
+      "GOP Nominee": {
+        "%": 57.3,
+        "Total": 1878695
+      },
+      "3rd Party": {
+        "%": 3.8,
+        "Total": 123091
+      }
+    },
+    "Projected Turnout": 3281344
+  },
+  {
+    "State": "Mississippi",
+    "Projected Margin": 19.17,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 39.3,
+        "Total": 532969
+      },
+      "GOP Nominee": {
+        "%": 58.4,
+        "Total": 793142
+      },
+      "3rd Party": {
+        "%": 2.3,
+        "Total": 30941
+      }
+    },
+    "Projected Turnout": 1357052
+  },
+  {
+    "State": "Louisiana",
+    "Projected Margin": 19.85,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 38.5,
+        "Total": 863305
+      },
+      "GOP Nominee": {
+        "%": 58.4,
+        "Total": 1307907
+      },
+      "3rd Party": {
+        "%": 3.1,
+        "Total": 68912
+      }
+    },
+    "Projected Turnout": 2240124
+  },
+  {
+    "State": "Nebraska",
+    "Projected Margin": 20.78,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 37.2,
+        "Total": 390403
+      },
+      "GOP Nominee": {
+        "%": 58.0,
+        "Total": 608426
+      },
+      "3rd Party": {
+        "%": 4.8,
+        "Total": 50361
+      }
+    },
+    "Projected Turnout": 1049190
+  },
+  {
+    "State": "Tennessee",
+    "Projected Margin": 24.58,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 35.7,
+        "Total": 1224612
+      },
+      "GOP Nominee": {
+        "%": 60.2,
+        "Total": 2068525
+      },
+      "3rd Party": {
+        "%": 4.1,
+        "Total": 140433
+      }
+    },
+    "Projected Turnout": 3433570
+  },
+  {
+    "State": "Kentucky",
+    "Projected Margin": 27.17,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 34.7,
+        "Total": 803793
+      },
+      "GOP Nominee": {
+        "%": 61.9,
+        "Total": 1432650
+      },
+      "3rd Party": {
+        "%": 3.4,
+        "Total": 77787
+      }
+    },
+    "Projected Turnout": 2314230
+  },
+  {
+    "State": "Alabama",
+    "Projected Margin": 27.60,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 34.9,
+        "Total": 862342
+      },
+      "GOP Nominee": {
+        "%": 62.5,
+        "Total": 1543295
+      },
+      "3rd Party": {
+        "%": 2.5,
+        "Total": 61920
+      }
+    },
+    "Projected Turnout": 2467558
+  },
+  {
+    "State": "Arkansas",
+    "Projected Margin": 29.29,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 32.8,
+        "Total": 426110
+      },
+      "GOP Nominee": {
+        "%": 62.1,
+        "Total": 806335
+      },
+      "3rd Party": {
+        "%": 5.1,
+        "Total": 65839
+      }
+    },
+    "Projected Turnout": 1298285
+  },
+  {
+    "State": "South Dakota",
+    "Projected Margin": 29.35,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 33.2,
+        "Total": 153701
+      },
+      "GOP Nominee": {
+        "%": 62.5,
+        "Total": 289794
+      },
+      "3rd Party": {
+        "%": 4.3,
+        "Total": 20157
+      }
+    },
+    "Projected Turnout": 463653
+  },
+  {
+    "State": "Idaho",
+    "Projected Margin": 31.54,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 31.0,
+        "Total": 312946
+      },
+      "GOP Nominee": {
+        "%": 62.6,
+        "Total": 631144
+      },
+      "3rd Party": {
+        "%": 6.4,
+        "Total": 64809
+      }
+    },
+    "Projected Turnout": 1008900
+  },
+  {
+    "State": "Oklahoma",
+    "Projected Margin": 34.08,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 30.5,
+        "Total": 508532
+      },
+      "GOP Nominee": {
+        "%": 64.6,
+        "Total": 1077217
+      },
+      "3rd Party": {
+        "%": 5.0,
+        "Total": 82692
+      }
+    },
+    "Projected Turnout": 1668441
+  },
+  {
+    "State": "North Dakota",
+    "Projected Margin": 37.33,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 28.5,
+        "Total": 108271
+      },
+      "GOP Nominee": {
+        "%": 65.8,
+        "Total": 249969
+      },
+      "3rd Party": {
+        "%": 5.6,
+        "Total": 21382
+      }
+    },
+    "Projected Turnout": 379622
+  },
+  {
+    "State": "West Virginia",
+    "Projected Margin": 39.84,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 28.5,
+        "Total": 242849
+      },
+      "GOP Nominee": {
+        "%": 68.3,
+        "Total": 582369
+      },
+      "3rd Party": {
+        "%": 3.2,
+        "Total": 27027
+      }
+    },
+    "Projected Turnout": 852245
+  },
+  {
+    "State": "Wyoming",
+    "Projected Margin": 45.28,
+    "Race Rating": "Safe GOP",
+    "Projected Results": {
+      "Dem Nominee": {
+        "%": 24.2,
+        "Total": 70742
+      },
+      "GOP Nominee": {
+        "%": 69.4,
+        "Total": 203338
+      },
+      "3rd Party": {
+        "%": 6.4,
+        "Total": 18780
+      }
+    },
+    "Projected Turnout": 292859
+  }
+]
